@@ -3,7 +3,14 @@
   <head>
     <title>Xmetal&apos;s Homepage</title>
 
-    <?php include 'modules/headerInclude.tpl'; ?>
+    <?php
+
+    $headerInc = "modules/headerInclude.tpl";
+    $headerInc = filter_var($headerInc, FILTER_SANITIZE_STRING);
+
+    require $headerInc;
+
+    ?>
   </head>
   <body>
     <header>
