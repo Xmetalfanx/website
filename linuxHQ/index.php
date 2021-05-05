@@ -3,9 +3,10 @@
     $sectionTitle='';
     $pageTitle="LinuxHQ Frontpage";
 
-    $path = getenv('DOCUMENT_ROOT');
+    $path = $_SERVER['DOCUMENT_ROOT'];
     $pathSanitized = filter_var($path, FILTER_SANITIZE_STRING);
-    include($pathSanitized . '/templates/linux/open/baseLinuxTemplateL.tpl');
+
+    require ($pathSanitized . '/templates/linux/open/baseLinuxTemplateL.tpl');
 ?>
 
   <div class="primary-content">
