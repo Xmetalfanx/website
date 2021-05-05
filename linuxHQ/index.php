@@ -4,7 +4,8 @@
     $pageTitle="LinuxHQ Frontpage";
 
     $path = getenv('DOCUMENT_ROOT');
-    include($path . '/templates/linux/open/baseLinuxTemplateL.tpl');
+    $pathSanitized = filter_var($path, FILTER_SANITIZE_STRING);
+    include($pathSanitized . '/templates/linux/open/baseLinuxTemplateL.tpl');
 ?>
 
   <div class="primary-content">
