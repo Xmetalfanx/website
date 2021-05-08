@@ -806,20 +806,12 @@
       "opensuse": "Leap 15.2, Tumbleweed",
       "ubuntu": "18.04 LTS, 20.04 LTS, 20.10",
     },
-
-    "arch": {
-      "eol": "As with any rolling release the more out of date it is, since the prior updates, the more things on some setups MAY have the chance of breaking when an update IS done."
-    },
-    "fedora": {
-      "eol":""
-    },
-
-    "opensuse": {
-      "eol": "openSUSE Leap 15.2: December 31, 2021"
-    },
-    "ubuntu": {
-
-      "eol": "Ubuntu 18.04 LTS End of Life: April 2023, Ubuntu 20.04 LTS End of Life: April 2025"
+    "eol": {
+      "arch":"As with any rolling release the more out of date it is, since the prior updates, the more things on some setups MAY have the chance of breaking when an update IS done.",
+      "debian":"",
+      "fedora":"",
+      "opensuse":"openSUSE Leap 15.2: December 31, 2021",
+      "ubuntu":"Ubuntu 18.04 LTS End of Life: April 2023, Ubuntu 20.04 LTS End of Life: April 2025",
     }
   },
   "ubuntu": [
