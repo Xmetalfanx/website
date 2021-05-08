@@ -1,0 +1,7 @@
+what i need to know: the base (for now it's ok to say lump RPM stuff together) of the current distro ... how do i get that from the json?
+
+if currentDistroFamily = 
+
+wait ... 
+
+<supportedVar> = supported.<supportedVar>

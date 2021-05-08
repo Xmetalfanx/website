@@ -22,7 +22,9 @@ function displayDistroOutput(
   currentDistroFeaturesDesktops,
   currentDistroSimilarDistros,
   currentDistroTargetAudience,
-  currentDistroSoftwareType
+  currentDistroSoftwareType,
+  currentDistroBaseSupported,
+  currentDistroBaseEOL
 ) {
   let distroSShotPath = '/linuxHQ/screenshots/' + currentDistroFamily + '/';
   let distroSShotTNPath = distroSShotPath + 'thumbnails/';
@@ -100,8 +102,8 @@ function displayDistroOutput(
 
                 <div class="py-3">
                   <h4> Versions</h4>
-                  <span class="font-weight-bold">Latest Version: </span><br />
-                  <span class="font-weight-bold">Currently Supported Versions: </span><br />
+                  <span class="font-weight-bold">Latest Version: ${currentDistroBaseSupported} </span><br />
+                  <span class="font-weight-bold">Currently Supported Versions: ${currentDistroBaseEOL} </span><br />
                 </div>
 
 
@@ -148,6 +150,9 @@ function getDistroData(data, $localDistroName) {
         let currentDistroSimilarDistros = value[distroFamily].moreinfo.similar;
         let currentDistroTargetAudience = value[distroFamily].moreinfo.target;
 
+        let currentDistroBaseSupported = value[distroFamily].supported.currentlySupported;
+        let currentDistroBaseEOL = value[distroFamily].supported.eol;
+
         // I think i meant "rolling, ...etc for this let"
         let currentDistroSoftwareType = value[distroFamily].moreinfo.software;
 
@@ -185,7 +190,9 @@ function getDistroData(data, $localDistroName) {
             currentDistroFeaturesDesktops,
             currentDistroSimilarDistros,
             currentDistroTargetAudience,
-            currentDistroSoftwareType
+            currentDistroSoftwareType,
+            currentDistroBaseSupported,
+            currentDistroBaseEOL
           );
         }
       }

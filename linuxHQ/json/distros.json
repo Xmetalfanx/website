@@ -1,1 +1,1095 @@
-{"RPM":[{"distroName":"fedora","distroTitle":"Fedora","graphics":{"iconURL":"fedora.svg"},"moreinfo":{"desktops":"Gnome (Default), Various official spins with other options","releaseCycle":"12 Months","similar":"","target":"Moderate to advanced users","featured":"yes"},"screenshots":{"desktop":"Gnome","src":"fedora.png","theme":"","thumbnails":"fedora_tn.png"},"version":"29","website":{"download":"http://www.fedora.com","forum":"http://forums.fedoraforum.org/","homepage":"http://www.fedora.com","myPage":"http://xmetal.x10.mx/linuxHQ/distros/"},"youtube":{"reviewPlaylist":"PLrh2y86lvcJeLcpMeVcMwbODBKBj8wqVm"}},{"distroName":"mageia","distroTitle":"Mageia","family":"mandriva","graphics":{"iconURL":"mageia.png"},"moreinfo":{"desktops":"Cinnamon, GNOME, IceWM, KDE, MATE, LXDE, Openbox, Razor-qt, WMaker, Xfce","releaseCycle":"9 months, Support for 18 months","similar":"ROSA Fresh, Open Mandriva","target":"Any User","featured":""},"screenshots":{"desktop":"","src":"","theme":"","thumbnails":""},"version":"6.1","website":{"download":"http://mageia.org/en/downloads/","forum":"https://forums.mageia.org/","homepage":"http://mageia.org","myPage":"http://xmetal.x10.mx/linuxHQ/distros/"},"youtube":{"reviewPlaylist":"PLrh2y86lvcJc-GsSlO3UJqdoGq3mTMIzh","tipsPlaylist":""}},{"distroName":"openmandriva","distroTitle":"Open Mandriva","graphics":{"iconURL":"openmandriva.png"},"moreinfo":{"desktops":"KDE","releaseCycle":"","similar":"ROSA, Mageia","target":"","featured":""},"screenshots":{"desktop":"","distro":"","src":"","theme":""},"version":"","website":{"download":"http://openmandriva.org/en/download_lx","forum":"http://forums.openmandriva.org/","homepage":"http://openmandriva.org","myPage":"http://xmetal.x10.mx/linuxHQ/distros/"},"youtube":{"reviewPlaylist":"PLrh2y86lvcJc-GsSlO3UJqdoGq3mTMIzh","tipsPlaylist":""}},{"distroName":"rosa","distroTitle":"ROSA Fresh","graphics":{"iconURL":""},"moreinfo":{"desktops":"KDE","releaseCycle":"","similar":"Mageia","target":"","featured":""},"screenshots":{"desktop":"","distro":"","src":"","theme":""},"version":"","website":{"download":"http://wiki.rosalab.ru/en/index.php/ROSA_Release","forum":"http://forum.rosalab.ru/","homepage":"http://www.rosalabs.com","myPage":"http://xmetal.x10.mx/linuxHQ/distros/"},"youtube":{"reviewPlaylist":"PLrh2y86lvcJc-GsSlO3UJqdoGq3mTMIzh","tipsPlaylist":""}},{"distroName":"opensuse","distroTitle":"Open Suse","graphics":{"iconURL":"opensuse.svg"},"moreinfo":{"desktops":"Various","releaseCycle":"","similar":"Gecko Linux","target":"Any User","featured":""},"screenshots":{"desktop":"","src":"opensuse.png","theme":"","thumbnails":"opensuse_tn.png"},"version":"Leap 15.2, Tumbleweed (Rolling)","website":{"download":"","forum":"http://forums.opensuse.org/","homepage":"http://www.opensuse.org","myPage":"http://xmetal.x10.mx/linuxHQ/distros/"},"youtube":{"reviewPlaylist":"","tipsPlaylist":""}},{"distroName":"pclinuxos","distroTitle":"PCLinuxOS","graphics":{"iconURL":"pclinuxos.png"},"moreinfo":{"desktops":"Plasma 5","family":"mandriva","releaseCycle":"","similar":"","target":"","featured":""},"screenshots":{"desktop":"Plasma 5","src":"","theme":"","thumbnails":""},"version":"","website":{"download":"http://pclinuxos.com/?page_id=10","forum":"http://www.pclinuxos.com/forum","homepage":"http://www.pclinuxos.com/","myPage":"http://xmetal.x10.mx/linuxHQ/distros/"},"youtube":{"reviewPlaylist":"PLrh2y86lvcJc-GsSlO3UJqdoGq3mTMIzh","tipsPlaylist":""}},{"distroName":"centOS","distroTitle":"Cent OS","graphics":{"iconURL":""},"moreinfo":{"desktops":"Various","similar":"Fedora, Red Hat Enterprise","target":"Enterprise/Advanced Users","releaseCycle":"","featured":""},"screenshots":{"desktop":"","src":"","theme":"","thumbnails":""},"version":"","website":{"download":"https://www.centos.org/download/","forum":"https://www.centos.org/forums/","homepage":"http://www.centos.org/","myPage":"http://xmetal.x10.mx/linuxHQ/distros/"},"youtube":{"reviewPlaylist":"PLrh2y86lvcJc-GsSlO3UJqdoGq3mTMIzh","tipsPlaylist":""}},{"distroName":"gecko","distroTitle":"Gecko Linux","family":"rpm","graphics":{"iconURL":"gecko.png"},"moreinfo":{"base":"openSUSE","desktops":"Cinnamon, Mate, XFCE, Budgie, Mate, .. and more","releaseCycle":"","similar":"OpenSuse","target":"Moderate to Advanced Users","featured":""},"screenshots":{"desktop":"Cinnamon","src":"gecko.png","theme":"","thumbnails":"gecko_tn.png"},"version":"","website":{"download":"http://geckolinux.github.io/#download","forum":"","homepage":"http://geckolinux.github.io/","myPage":"http://xmetal.x10.mx/linuxHQ/distros/"},"youtube":{"reviewPlaylist":"https://www.youtube.com/playlist?list=PLrh2y86lvcJc-GsSlO3UJqdoGq3mTMIzh","tipsPlaylist":""}}],"arch":[{"distroName":"endeavouros","distroTitle":"EndeavourOS","graphics":{"iconURL":"endeavour.png"},"moreinfo":{"base":"Arch Linux","desktops":"Various","similar":"Manjaro, Arch","releaseCycle":"","target":"Moderate (due to it being arch based) to Advanced Users","featured":"no"},"screenshots":{"desktop":"","src":"endeavour.png","theme":"","thumbnails":"endeavour_tn.png"},"version":"","website":{"download":"https://endeavouros.com/download/","forum":"https://forum.endeavouros.com/","homepage":"https://endeavouros.com/","myPage":""},"youtube":{"reviewPlaylist":"PLrh2y86lvcJcds8f9K7ixM3-A687PqjgI","tipsPlaylist":""}},{"distroName":"arch","distroTitle":"Arch","graphics":{"iconURL":"arch.svg"},"moreinfo":{"desktops":"Cinnamon, Enlightenment, GNOME, KDE, LXDE, MATE, Xfce","similar":"(...sort of) Antergos, SwagArch, (..this is a stretch) Manjaro","releaseCycle":"","target":"Moderate to Advanced Users","featured":"no"},"screenshots":{"desktop":"","distro":"","src":"","theme":"","thumbnails":""},"version":"","website":{"download":"http://www.archlinux.org/download/","forum":"http://bbs.archlinux.org/","homepage":"http://www.archlinux.org","myPage":"http://xmetal.x10.mx/linuxHQ/distros/arch/arch.php"},"youtube":{"reviewPlaylist":"","tipsPlaylist":""}},{"distroName":"archbang","distroTitle":"Archbang","graphics":{"iconURL":"archbang.png"},"moreinfo":{"base":"Arch Linux","desktops":"Openbox","similar":"Arch","releaseCycle":"","target":"Moderate to Advanced Users","featured":""},"screenshots":{"desktop":"","src":"","theme":"","thumbnails":""},"version":"","website":{"download":"http://sourceforge.net/projects/archbang/files/","forum":"http://bbs.archbang.org/","homepage":"http://bbs.archbang.org","myPage":"http://xmetal.x10.mx/linuxHQ/distros/arch/archbang.php"},"youtube":{"reviewPlaylist":"PLrh2y86lvcJcds8f9K7ixM3-A687PqjgI","tipsPlaylist":""}},{"distroName":"manjaro","distroTitle":"Manjaro","graphics":{"iconURL":"manjaro.svg"},"moreinfo":{"desktops":"Cinnamon, Enlightenment, GNOME, KDE, LXDE, MATE, Xfce","similar":"(with the same DE..) Antergos or Arch","releaseCycle":"","target":"Any User","featured":"yes"},"screenshots":{"desktop":"KDE/Plasma 5","src":"manjaro.png","theme":"","thumbnails":"manjaro_tn.png"},"version":"","website":{"download":"http://manjaro.org/get-manjaro/","forum":"http://forum.manjaro.org/","homepage":"https://manjaro.github.io","myPage":"http://xmetal.x10.mx/linuxHQ/distros/arch/manjaro.php"},"youtube":{"reviewPlaylist":"PLrh2y86lvcJcTUd-HPh9CxBvHkrsDGOes","tipsPlaylist":""}}],"debian":[{"distroName":"antix","distroTitle":"Anti-X","graphics":{"iconURL":""},"moreinfo":{"desktops":"","releaseCycle":"","target":"","featured":""},"screenshots":{"desktop":"","src":"antix.png","theme":"","thumbnails":"antix_tn.png"},"version":"19","website":{"download":"https://antixlinux.com/download/","forum":"https://www.antixforum.com/","homepage":"https://antixlinux.com/","myPage":"http://xmetal.x10.mx/linuxHQ/distros/debian/","similar":"Linux Mint Debian Edition, Sparky Linux"},"youtube":{"reviewPlaylist":"PLrh2y86lvcJeeTlI3BEHVMxYbKYy74ABJ","tipsPlaylist":"https://www.youtube.com/playlist?list=PLrh2y86lvcJddBni43z2PSd9H0XotKdn4"}},{"distroName":"bunsenlabs","distroTitle":"Bunsenlabs","graphics":{"iconURL":"bunsenlabs.png"},"moreinfo":{"desktops":"Openbox","similar":"The Debian familys version of Archbang OR Debian with Openbox installed","target":"Moderate to Advanced Users (for the most part)","type":"","releaseCycle":"","featured":""},"screenshots":{"desktop":"","src":"bunsenlabs.png","theme":"","thumbnails":"bunsenlabs_tn.png"},"version":"BunsenLabs Linux Lithium","website":{"download":"https://www.bunsenlabs.org/installation.html","forum":"https://forums.bunsenlabs.org","homepage":"https://www.bunsenlabs.org","myPage":"http://xmetal.x10.mx/linuxHQ/distros/debian/bunsenlabs.php"},"youtube":{"reviewPlaylist":"PLrh2y86lvcJeeTlI3BEHVMxYbKYy74ABJ","tipsPlaylist":"https://www.youtube.com/playlist?list=PLrh2y86lvcJddBni43z2PSd9H0XotKdn4"}},{"distroName":"debian","distroTitle":"Debian","graphics":{"iconURL":"debian.svg"},"moreinfo":{"desktops":"Various","similar":"Sparky Linux, Bunsenlabs, Linux Mint Debian Edition","target":"","releaseCycle":"","featured":""},"screenshots":{"desktop":"","src":"debian.png","theme":"","thumbnails":"debian_tn.png"},"version":"10.x","website":{"download":"","forum":"http://forums.debian.net/","homepage":"http://www.debian.org/","myPage":"http://xmetal.x10.mx/linuxHQ/distros/debian/debian.php"},"youtube":{"reviewPlaylist":"PLrh2y86lvcJeeTlI3BEHVMxYbKYy74ABJ","tipsPlaylist":"https://www.youtube.com/playlist?list=PLrh2y86lvcJddBni43z2PSd9H0XotKdn4"}},{"distroName":"lmde","distroTitle":"Linux Mint Debian Edition","graphics":{"iconURL":"mint.png"},"moreinfo":{"desktops":"Mate, Cinnamon","similar":"Debian with Cinnamon (with LMDE 3, the Mate version, was dropped)OR a \"Cross between Linux Mint (Ubuntu based) and Debian","target":"","type":"","featured":""},"screenshots":{"desktop":"","src":"","theme":"","thumbnails":""},"version":"4","website":{"download":"http://www.linuxmint.com/download_lmde.php","forum":"","homepage":"http://www.linuxmint.com/download_lmde.php","myPage":"http://xmetal.x10.mx/linuxHQ/distros/debian/lmde.php"},"youtube":{"reviewPlaylist":"PLrh2y86lvcJeeTlI3BEHVMxYbKYy74ABJ","tipsPlaylist":"https://www.youtube.com/playlist?list=PLrh2y86lvcJddBni43z2PSd9H0XotKdn4"}},{"distroName":"solyd","distroTitle":"SoyldXK","graphics":{"iconURL":"solydxk.png"},"moreinfo":{"desktops":"KDE aka Plama 5 / XFCE","similar":"Debian with XFCE or KDE/Plasma 5 installed I suppose","target":"","type":"","releaseCycle":"","featured":""},"screenshots":{"desktop":"XFCE","src":"soyldxk.png","theme":"","thumbnails":"soyldxk_tn.png"},"version":"10","website":{"download":"http://downloads.solydxk.com/","forum":"","homepage":"http://solydxk.com/","myPage":"http://xmetal.x10.mx/linuxHQ/distros/debian/soyldxk.php"},"youtube":{"reviewPlaylist":"PLrh2y86lvcJeeTlI3BEHVMxYbKYy74ABJ","tipsPlaylist":"https://www.youtube.com/playlist?list=PLrh2y86lvcJddBni43z2PSd9H0XotKdn4"}},{"distroName":"sparky","distroTitle":"Sparky Linux","graphics":{"iconURL":"#"},"moreinfo":{"desktops":"Various","similar":"Various","target":"Any User","type":"","featured":""},"screenshots":{"desktop":"","src":"sparky.png","theme":"","thumbnails":"sparky_tn.png"},"version":"","website":{"download":"https://sparkylinux.org/download/","forum":"#","homepage":"https://sparkylinux.org/","myPage":"http://xmetal.x10.mx/linuxHQ/distros/debian/sparky.php"},"youtube":{"reviewPlaylist":"PLrh2y86lvcJeeTlI3BEHVMxYbKYy74ABJ","tipsPlaylist":"https://www.youtube.com/playlist?list=PLrh2y86lvcJddBni43z2PSd9H0XotKdn4"}},{"distroName":"mx","distroTitle":"MX Linux","graphics":{"iconURL":"mx.png"},"moreinfo":{"desktops":"","similar":"antiX","target":"Any User","type":"","releaseCycle":"","featured":""},"screenshots":{"desktop":"","src":"mx.png","theme":"","thumbnails":"mx_tn.png"},"version":"16","website":{"download":"https://mxlinux.org/download-links","forum":"","homepage":"https://mxlinux.org/","myPage":"http://xmetal.x10.mx/linuxHQ/distros/debian/mxlinux.php"},"youtube":{"reviewPlaylist":"PLrh2y86lvcJeeTlI3BEHVMxYbKYy74ABJ","tipsPlaylist":"https://www.youtube.com/playlist?list=PLrh2y86lvcJddBni43z2PSd9H0XotKdn4"}},{"distroName":"cbplusplus","distroTitle":"Crunchbang++","graphics":{"iconURL":""},"moreinfo":{"desktops":"Openbox","similar":"Debian with Openbox","target":"","type":"","releaseCycle":"","featured":""},"screenshots":{"desktop":"","src":"","theme":"","thumbnails":""},"version":"","website":{"download":"https://crunchbangplusplus.org/download/","forum":"https://www.reddit.com/r/crunchbangplusplus/","homepage":"https://crunchbangplusplus.org/","myPage":"http://xmetal.x10.mx/linuxHQ/distros/"},"youtube":{"reviewPlaylist":"PLrh2y86lvcJeeTlI3BEHVMxYbKYy74ABJ","tipsPlaylist":"https://www.youtube.com/playlist?list=PLrh2y86lvcJddBni43z2PSd9H0XotKdn4"}},{"distroName":"makulu","distroTitle":"Makulu","graphics":{"iconURL":"makulu.png"},"moreinfo":{"desktops":"Various","similar":"","target":"","type":"","releaseCycle":"","featured":"yes"},"screenshots":{"desktop":"Plasma 5","src":"makulu.png","theme":"","thumbnails":"makulu_tn.png"},"version":"","website":{"download":"http://www.makululinux.com/wp/downloads/","forum":"http://makululinux.discussion.community/","homepage":"http://www.makululinux.com/","myPage":"http://xmetal.x10.mx/linuxHQ/distros/"},"youtube":{"reviewPlaylist":"PLrh2y86lvcJeeTlI3BEHVMxYbKYy74ABJ","tipsPlaylist":"https://www.youtube.com/playlist?list=PLrh2y86lvcJddBni43z2PSd9H0XotKdn4"}},{"distroName":"deepin","distroTitle":"Deepin","graphics":{"iconURL":"deepin.png"},"moreinfo":{"base":"Debian","desktops":"Deepin Desktop Envirnoment","similar":"","releaseCycle":"","target":"Any Use","featured":""},"screenshots":{"desktop":"","src":"deepin.png","theme":"","thumbnails":"deepin_tn.png"},"version":"","website":{"download":"https://www.deepin.org/en/download/","forum":"https://bbs.deepin.org/","homepage":"https://deepin.org/","myPage":"http://xmetal.x10.mx/linuxHQ/distros/"},"youtube":{"reviewPlaylist":"PLrh2y86lvcJeeTlI3BEHVMxYbKYy74ABJ","tipsPlaylist":"PLrh2y86lvcJddBni43z2PSd9H0XotKdn4"}}],"gentoo":[{"distroName":"calculate","distroTitle":"Calculate","graphics":{"iconURL":"calculate.png"},"moreinfo":{"desktops":"Various","similar":"Gentoo, Sabayon","target":"Advanced Users","releaseCycle":"","featured":""},"screenshots":{"desktop":"","src":"","theme":"","thumbnails":""},"version":"","website":{"download":"http://www.calculate-linux.org/main/en/download","forum":"http://www.calculate-linux.org/projects/en/boards","homepage":"http://www.calculate-linux.org/","myPage":"http://xmetal.x10.mx/linuxHQ/distros/"},"youtube":{"reviewPlaylist":"","tipsPlaylist":""}},{"distroName":"gentoo","distroTitle":"Gentoo","graphics":{"iconURL":"#"},"moreinfo":{"desktops":"Various","similar":"Calculate Linux, Sabayon","target":"Advanced Users","type":"","releaseCycle":"","featured":""},"screenshots":{"desktop":"","distro":"","src":"","theme":"","thumbnails":""},"version":"","website":{"download":"","forum":"","homepage":"http://www.gentoo.org/","myPage":"http://xmetal.x10.mx/linuxHQ/distros/"},"youtube":{"reviewPlaylist":"","tipsPlaylist":""}},{"distroName":"sabayon","distroTitle":"Sabayon","graphics":{"iconURL":"#"},"moreinfo":{"desktops":"Various","similar":"Gentoo, Calculate Linux","target":"Advanced Users","type":"Rolling","releaseCycle":"","featured":""},"screenshots":{"desktop":"","distro":"","src":"","theme":"","thumbnails":""},"version":"","website":{"download":"http://www.sabayon.org/download","forum":"http://forum.sabayon.org/","homepage":"http://www.sabayon.org/","myPage":"http://xmetal.x10.mx/linuxHQ/distros/"},"youtube":{"reviewPlaylist":"","tipsPlaylist":""}}],"supported":{"arch":{"currentlySupported":"all","manjaro":"","rollingMessage":"As with any rolling release the more out of date it is, since the prior updates, the more things on some setups MAY have the chance of breaking when an update IS done."},"fedora":{"currentlySupported":"Fedora 33, Fedora (testing) 34, Rawhide"},"opensuse":{"currentlySupported":"Leap 15.2, Tumbleweed","leap152EOL":"December 31, 2021"},"ubuntu":{"1804LTSEOL":"April 2023","2004LTSEOL":"April 2025","currentlySupported":"18.04 LTS, 20.04 LTS, 20.10"}},"ubuntu":[{"distroName":"elementary","distroTitle":"ElementaryOS","graphics":{"iconURL":"elementary.svg"},"moreinfo":{"base":"Ubuntu Long Term Support (LTS)","desktops":"Pantheon","similar":"","releaseCycle":"Follows Ubuntu LTS releases","target":"Any User/ New Use","featured":"yes"},"screenshots":{"src":"elementary.png","thumbnails":"elementary_tn.png","theme":""},"version":"Loki","website":{"download":"http://sourceforge.net/projects/elementaryos/files/","forum":"https://elementaryforums.com/index.php","homepage":"http://elementary.io","myPage":"http://xmetal.x10.mx/linuxHQ/distros/"},"youtube":{"reviewPlaylist":"PLrh2y86lvcJfmyxuXW01A-ujfqrJzL8Ck","tipsPlaylist":""}},{"distroName":"mint","distroTitle":"Linux Mint","graphics":{"iconURL":"linuxmint.svg"},"moreinfo":{"desktops":"Mate, XFCE, Cinnamon, Plasma 5","similar":"Cinnamon, Mate, Plasma 5 (removed in Version 19 as an official ISO), XFCE","target":"Any/New Users","type":"Ubuntu LTS Based - Mint 18.x based on 16.04, Ubuntu 19.x is based on 18.04, Mint 20.x based on Ubuntu 20.04","releaseCycle":"Follows Ubuntu Long Term Support releases","featured":"yes"},"screenshots":{"desktop":"Cinnamon","icon":"Mint-Y","src":"cinnamonMint.png","theme":"Mint-Y","thumbnails":"cinnamonMint_tn.png"},"version":"19.x, 20.x","website":{"download":"http://www.linuxmint.com/download.php","forum":"http://linuxmint.com/forum/","homepage":"http://www.linuxmint.com","myPage":"http://xmetal.x10.mx/linuxHQ/distros/"},"youtube":{"reviewPlaylist":"PLrh2y86lvcJfmyxuXW01A-ujfqrJzL8Ck","tipsPlaylist":""}},{"distroName":"kdeneon","distroTitle":"KDE Neon","graphics":{"iconURL":"neon.svg"},"moreinfo":{"base":"Ubuntu Long Term Support (LTS) - 18.04 Currently","desktops":"Plasma 5","similar":"Kubuntu","target":"Any User","releaseCycle":"","featured":""},"screenshots":{"desktop":"","src":"kdeneon.png","theme":"","thumbnails":"kdeneon_tn.png"},"version":"","website":{"download":"https://neon.kde.org/download","forum":"https://forum.kde.org/","homepage":"https://neon.kde.org/","myPage":"http://xmetal.x10.mx/linuxHQ/distros/"},"youtube":{"reviewPlaylist":"PLrh2y86lvcJfmyxuXW01A-ujfqrJzL8Ck","tipsPlaylist":""}},{"distroName":"peppermint","distroTitle":"Peppermint","graphics":{"iconURL":"peppermint.png"},"moreinfo":{"desktops":"LXDE/XFCE","similar":"LXLE, Lubuntu","target":"Any User","type":"","featured":""},"screenshots":{"desktop":"XFCE","src":"peppermint.png","theme":"","thumbnails":"peppermint_tn.png"},"version":"","website":{"download":"https://peppermintos.com/","forum":"","homepage":"http://peppermintos.com/","myPage":"http://xmetal.x10.mx/linuxHQ/distros/"},"youtube":{"reviewPlaylist":"PLrh2y86lvcJfmyxuXW01A-ujfqrJzL8Ck","tipsPlaylist":""}},{"distroName":"kubuntu","distroTitle":"Kubuntu","graphics":{"iconURL":"kubuntu.png"},"moreinfo":{"base":"Ubuntu (LTS and non-LTS)","desktops":"Plasma 5","similar":"Linux Mint KDE edition OR Ubuntu with kde-standard/kde-full installed OR Netrunner (Ubuntu based .. .not the rolling release)","target":"Any User","releaseCycle":"","featured":""},"screenshots":{"desktop":"KDE / Plasma 5","src":"kubuntu.png","theme":"","thumbnails":"kubuntu_tn.png"},"version":"18.04 LTS, 20.04 LTS, 20.10, (soon) 21.04","website":{"download":"http://www.ubuntu.com/desktop/get-ubuntu/download","forum":"http://ubuntuforums.org/","homepage":"http://www.kubuntu.org/","myPage":"http://xmetal.x10.mx/linuxHQ/distros/"},"youtube":{"reviewPlaylist":"PLrh2y86lvcJfmyxuXW01A-ujfqrJzL8Ck","tipsPlaylist":""}},{"distroName":"lubuntu","distroTitle":"Lubuntu","graphics":{"iconURL":"lubuntu.svg"},"moreinfo":{"base":"Ubuntu Long Term Support (LTS) and non-LTS","desktops":"LXDE, LXQT","similar":"","target":"Any/New Users","releaseCycle":"","featured":""},"screenshots":{"desktop":"LXQT","src":"lubuntu.png","theme":"","thumbnails":"lubuntu_tn.png"},"version":"16.04 LTS, 18.04 LTS, 18.10","website":{"download":"https://lubuntu.net/downloads/","forum":"http://ubuntuforums.org/","homepage":"http://lubuntu.net","myPage":"http://xmetal.x10.mx/linuxHQ/distros/"},"youtube":{"reviewPlaylist":"PLrh2y86lvcJfmyxuXW01A-ujfqrJzL8Ck","tipsPlaylist":""}},{"distroName":"ubuntu","distroTitle":"Ubuntu","graphics":{"iconURL":"ubuntu.svg"},"moreinfo":{"desktops":"Unity, Gnomeshell","similar":"(many 'buntu flavors), Linux Lite, Linux Mint, Uberstudent","target":"Any User","type":"LTS and non-LTS","releaseCycle":"","featured":""},"screenshots":{"desktop":"Gnome Shell","src":"ubuntu2010settings.png","theme":"","thumbnails":"ubuntu2010settings_tn.png"},"version":"18.04 LTS, Ubuntu 20.04 LTS, 20.10","website":{"download":"http://www.ubuntu.com/desktop/get-ubuntu/download","forum":"http://ubuntuforums.org/","homepage":"http://www.ubuntu.com","myPage":"http://xmetal.x10.mx/linuxHQ/distros/"},"youtube":{"reviewPlaylist":"PLrh2y86lvcJfmyxuXW01A-ujfqrJzL8Ck","tipsPlaylist":""}},{"distroName":"ubuntumate","distroTitle":"Ubuntu Mate","graphics":{"iconURL":"ubuntuMate.svg"},"moreinfo":{"base":"Ubuntu Long Term Support (LTS) and non-LTS","desktops":"Mate","similar":"Linux Mint Mate","target":"Any User","releaseCycle":"","featured":"yes"},"screenshots":{"desktop":"Mate","src":"umate1.png","thumbnails":"umate1_tn.png","theme":""},"version":"16.04 LTS, 18.04 LTS, 18.10","website":{"download":"https://ubuntu-mate.org/download/","forum":"https://ubuntu-mate.community/","homepage":"http://ubuntu-mate.org"},"youtube":{"reviewPlaylist":"PLrh2y86lvcJfmyxuXW01A-ujfqrJzL8Ck","tipsPlaylist":""}},{"distroName":"xubuntu","distroTitle":"xubuntu","graphics":{"iconURL":"xubuntu.svg"},"moreinfo":{"base":"Ubuntu Long Term Support (LTS) and non-LTS","desktops":"XFCE","similar":"SolydX, Linux Mint XFCE, Linux Lite","target":"Any User","releaseCycle":"","featured":""},"screenshots":{"desktop":"XFCE","src":"xubuntu1.png","theme":"","thumbnails":"xubuntu1_tn.png"},"version":"18.04 LTS, 20.04 LTS, 20.10","website":{"download":"http://xubuntu.org/getxubuntu/","forum":"","homepage":"http://www.xubuntu.com","myPage":"http://xmetal.x10.mx/linuxHQ/distros/"},"youtube":{"reviewPlaylist":"PLrh2y86lvcJfmyxuXW01A-ujfqrJzL8Ck","tipsPlaylist":""}},{"distroName":"zorin","distroTitle":"Zorin","graphics":{"iconURL":"zorin.png"},"moreinfo":{"base":"Ubuntu Long Term Support (LTS)","desktops":"Gnome, XFCE","similar":"","releaseCycle":"","target":"New Users","featured":""},"screenshots":{"desktop":"","src":"","theme":""},"version":"","website":{"download":"http://zorin-os.com/free.html\"","forum":"http://www.zoringroup.com/forum/viewforum.php?f=3","homepage":"http://www.zorin-os.com/","myPage":"http://xmetal.x10.mx/linuxHQ/distros/"},"youtube":{"reviewPlaylist":"PLrh2y86lvcJfmyxuXW01A-ujfqrJzL8Ck","tipsPlaylist":""}},{"distroName":"linuxlite","distroTitle":"Linux Lite","graphics":{"iconURL":"lite.png"},"moreinfo":{"base":"Ubuntu Long Term Support (LTS)","desktops":"XFCE","similar":"Linux Mint + XFCE, Xubuntu","target":"Any/New Users","releaseCycle":"","featured":""},"screenshots":{"desktop":"XFCE","src":"linuxlite.png","theme":"","thumbnails":"linuxlite_tn.png"},"version":"","website":{"download":"http://sourceforge.net/projects/linuxlite/files","forum":"https://www.linuxliteos.com/forums/","homepage":"http://www.linuxliteos.com","myPage":"http://xmetal.x10.mx/linuxHQ/distros/"},"youtube":{"reviewPlaylist":"PLrh2y86lvcJfmyxuXW01A-ujfqrJzL8Ck","tipsPlaylist":""}},{"distroName":"lxle","distroTitle":"LXLE","graphics":{"iconURL":"lxle.png"},"moreinfo":{"base":"Ubuntu Long Term Support (LTS) and non-LTS","desktops":"LXDE","similar":"Lubuntu or any other Ubuntu based distro with LXDE installed","releaseCycle":"","target":"Any Use","featured":""},"screenshots":{"desktop":"","src":"lxle.png","theme":"","thumbnails":"lxle_tn.png"},"version":"","website":{"download":"http://www.lxle.net/download","forum":"http://lxle.net/forum/","homepage":"http://www.lxle.net","myPage":"http://xmetal.x10.mx/linuxHQ/distros/"},"youtube":{"reviewPlaylist":"PLrh2y86lvcJfmyxuXW01A-ujfqrJzL8Ck","tipsPlaylist":""}}]}
+{
+  "RPM": [
+    {
+      "distroName": "fedora",
+      "distroTitle": "Fedora",
+      "graphics": { "iconURL": "fedora.svg" },
+      "moreinfo": {
+        "desktops": "Gnome (Default), Various official spins with other options",
+        "releaseCycle": "12 Months",
+        "similar": "",
+        "target": "Moderate to advanced users",
+        "featured": "yes"
+      },
+      "screenshots": {
+        "desktop": "Gnome",
+        "src": "fedora.png",
+        "theme": "",
+        "thumbnails": "fedora_tn.png"
+      },
+      "version": "29",
+      "website": {
+        "download": "http://www.fedora.com",
+        "forum": "http://forums.fedoraforum.org/",
+        "homepage": "http://www.fedora.com",
+        "myPage": "http://xmetal.x10.mx/linuxHQ/distros/"
+      },
+      "youtube": { "reviewPlaylist": "PLrh2y86lvcJeLcpMeVcMwbODBKBj8wqVm" }
+    },
+    {
+      "distroName": "mageia",
+      "distroTitle": "Mageia",
+      "family": "mandriva",
+      "graphics": { "iconURL": "mageia.png" },
+      "moreinfo": {
+        "desktops": "Cinnamon, GNOME, IceWM, KDE, MATE, LXDE, Openbox, Razor-qt, WMaker, Xfce",
+        "releaseCycle": "9 months, Support for 18 months",
+        "similar": "ROSA Fresh, Open Mandriva",
+        "target": "Any User",
+        "featured": ""
+      },
+      "screenshots": {
+        "desktop": "",
+        "src": "",
+        "theme": "",
+        "thumbnails": ""
+      },
+      "version": "6.1",
+      "website": {
+        "download": "http://mageia.org/en/downloads/",
+        "forum": "https://forums.mageia.org/",
+        "homepage": "http://mageia.org",
+        "myPage": "http://xmetal.x10.mx/linuxHQ/distros/"
+      },
+      "youtube": {
+        "reviewPlaylist": "PLrh2y86lvcJc-GsSlO3UJqdoGq3mTMIzh",
+        "tipsPlaylist": ""
+      }
+    },
+    {
+      "distroName": "openmandriva",
+      "distroTitle": "Open Mandriva",
+      "graphics": { "iconURL": "openmandriva.png" },
+      "moreinfo": {
+        "desktops": "KDE",
+        "releaseCycle": "",
+        "similar": "ROSA, Mageia",
+        "target": "",
+        "featured": ""
+      },
+      "screenshots": { "desktop": "", "distro": "", "src": "", "theme": "" },
+      "version": "",
+      "website": {
+        "download": "http://openmandriva.org/en/download_lx",
+        "forum": "http://forums.openmandriva.org/",
+        "homepage": "http://openmandriva.org",
+        "myPage": "http://xmetal.x10.mx/linuxHQ/distros/"
+      },
+      "youtube": {
+        "reviewPlaylist": "PLrh2y86lvcJc-GsSlO3UJqdoGq3mTMIzh",
+        "tipsPlaylist": ""
+      }
+    },
+    {
+      "distroName": "rosa",
+      "distroTitle": "ROSA Fresh",
+      "graphics": { "iconURL": "" },
+      "moreinfo": {
+        "desktops": "KDE",
+        "releaseCycle": "",
+        "similar": "Mageia",
+        "target": "",
+        "featured": ""
+      },
+      "screenshots": { "desktop": "", "distro": "", "src": "", "theme": "" },
+      "version": "",
+      "website": {
+        "download": "http://wiki.rosalab.ru/en/index.php/ROSA_Release",
+        "forum": "http://forum.rosalab.ru/",
+        "homepage": "http://www.rosalabs.com",
+        "myPage": "http://xmetal.x10.mx/linuxHQ/distros/"
+      },
+      "youtube": {
+        "reviewPlaylist": "PLrh2y86lvcJc-GsSlO3UJqdoGq3mTMIzh",
+        "tipsPlaylist": ""
+      }
+    },
+    {
+      "distroName": "opensuse",
+      "distroTitle": "Open Suse",
+      "graphics": { "iconURL": "opensuse.svg" },
+      "moreinfo": {
+        "desktops": "Various",
+        "releaseCycle": "",
+        "similar": "Gecko Linux",
+        "target": "Any User",
+        "featured": ""
+      },
+      "screenshots": {
+        "desktop": "",
+        "src": "opensuse.png",
+        "theme": "",
+        "thumbnails": "opensuse_tn.png"
+      },
+      "version": "Leap 15.2, Tumbleweed (Rolling)",
+      "website": {
+        "download": "",
+        "forum": "http://forums.opensuse.org/",
+        "homepage": "http://www.opensuse.org",
+        "myPage": "http://xmetal.x10.mx/linuxHQ/distros/"
+      },
+      "youtube": { "reviewPlaylist": "", "tipsPlaylist": "" }
+    },
+    {
+      "distroName": "pclinuxos",
+      "distroTitle": "PCLinuxOS",
+      "graphics": { "iconURL": "pclinuxos.png" },
+      "moreinfo": {
+        "desktops": "Plasma 5",
+        "family": "mandriva",
+        "releaseCycle": "",
+        "similar": "",
+        "target": "",
+        "featured": ""
+      },
+      "screenshots": {
+        "desktop": "Plasma 5",
+        "src": "",
+        "theme": "",
+        "thumbnails": ""
+      },
+      "version": "",
+      "website": {
+        "download": "http://pclinuxos.com/?page_id=10",
+        "forum": "http://www.pclinuxos.com/forum",
+        "homepage": "http://www.pclinuxos.com/",
+        "myPage": "http://xmetal.x10.mx/linuxHQ/distros/"
+      },
+      "youtube": {
+        "reviewPlaylist": "PLrh2y86lvcJc-GsSlO3UJqdoGq3mTMIzh",
+        "tipsPlaylist": ""
+      }
+    },
+    {
+      "distroName": "centOS",
+      "distroTitle": "Cent OS",
+      "graphics": { "iconURL": "" },
+      "moreinfo": {
+        "desktops": "Various",
+        "similar": "Fedora, Red Hat Enterprise",
+        "target": "Enterprise/Advanced Users",
+        "releaseCycle": "",
+        "featured": ""
+      },
+      "screenshots": {
+        "desktop": "",
+        "src": "",
+        "theme": "",
+        "thumbnails": ""
+      },
+      "version": "",
+      "website": {
+        "download": "https://www.centos.org/download/",
+        "forum": "https://www.centos.org/forums/",
+        "homepage": "http://www.centos.org/",
+        "myPage": "http://xmetal.x10.mx/linuxHQ/distros/"
+      },
+      "youtube": {
+        "reviewPlaylist": "PLrh2y86lvcJc-GsSlO3UJqdoGq3mTMIzh",
+        "tipsPlaylist": ""
+      }
+    },
+    {
+      "distroName": "gecko",
+      "distroTitle": "Gecko Linux",
+      "family": "rpm",
+      "graphics": { "iconURL": "gecko.png" },
+      "moreinfo": {
+        "base": "openSUSE",
+        "desktops": "Cinnamon, Mate, XFCE, Budgie, Mate, .. and more",
+        "releaseCycle": "",
+        "similar": "OpenSuse",
+        "target": "Moderate to Advanced Users",
+        "featured": ""
+      },
+      "screenshots": {
+        "desktop": "Cinnamon",
+        "src": "gecko.png",
+        "theme": "",
+        "thumbnails": "gecko_tn.png"
+      },
+      "version": "",
+      "website": {
+        "download": "http://geckolinux.github.io/#download",
+        "forum": "",
+        "homepage": "http://geckolinux.github.io/",
+        "myPage": "http://xmetal.x10.mx/linuxHQ/distros/"
+      },
+      "youtube": {
+        "reviewPlaylist": "https://www.youtube.com/playlist?list=PLrh2y86lvcJc-GsSlO3UJqdoGq3mTMIzh",
+        "tipsPlaylist": ""
+      }
+    }
+  ],
+  "arch": [
+    {
+      "distroName": "endeavouros",
+      "distroTitle": "EndeavourOS",
+      "graphics": { "iconURL": "endeavour.png" },
+      "moreinfo": {
+        "base": "Arch Linux",
+        "desktops": "Various",
+        "similar": "Manjaro, Arch",
+        "releaseCycle": "",
+        "target": "Moderate (due to it being arch based) to Advanced Users",
+        "featured": "no"
+      },
+      "screenshots": {
+        "desktop": "",
+        "src": "endeavour.png",
+        "theme": "",
+        "thumbnails": "endeavour_tn.png"
+      },
+      "version": "",
+      "website": {
+        "download": "https://endeavouros.com/download/",
+        "forum": "https://forum.endeavouros.com/",
+        "homepage": "https://endeavouros.com/",
+        "myPage": ""
+      },
+      "youtube": {
+        "reviewPlaylist": "PLrh2y86lvcJcds8f9K7ixM3-A687PqjgI",
+        "tipsPlaylist": ""
+      }
+    },
+    {
+      "distroName": "arch",
+      "distroTitle": "Arch",
+      "graphics": { "iconURL": "arch.svg" },
+      "moreinfo": {
+        "desktops": "Cinnamon, Enlightenment, GNOME, KDE, LXDE, MATE, Xfce",
+        "similar": "(...sort of) Antergos, SwagArch, (..this is a stretch) Manjaro",
+        "releaseCycle": "",
+        "target": "Moderate to Advanced Users",
+        "featured": "no"
+      },
+      "screenshots": {
+        "desktop": "",
+        "distro": "",
+        "src": "",
+        "theme": "",
+        "thumbnails": ""
+      },
+      "version": "",
+      "website": {
+        "download": "http://www.archlinux.org/download/",
+        "forum": "http://bbs.archlinux.org/",
+        "homepage": "http://www.archlinux.org",
+        "myPage": "http://xmetal.x10.mx/linuxHQ/distros/arch/arch.php"
+      },
+      "youtube": { "reviewPlaylist": "", "tipsPlaylist": "" }
+    },
+    {
+      "distroName": "archbang",
+      "distroTitle": "Archbang",
+      "graphics": { "iconURL": "archbang.png" },
+      "moreinfo": {
+        "base": "Arch Linux",
+        "desktops": "Openbox",
+        "similar": "Arch",
+        "releaseCycle": "",
+        "target": "Moderate to Advanced Users",
+        "featured": ""
+      },
+      "screenshots": {
+        "desktop": "",
+        "src": "",
+        "theme": "",
+        "thumbnails": ""
+      },
+      "version": "",
+      "website": {
+        "download": "http://sourceforge.net/projects/archbang/files/",
+        "forum": "http://bbs.archbang.org/",
+        "homepage": "http://bbs.archbang.org",
+        "myPage": "http://xmetal.x10.mx/linuxHQ/distros/arch/archbang.php"
+      },
+      "youtube": {
+        "reviewPlaylist": "PLrh2y86lvcJcds8f9K7ixM3-A687PqjgI",
+        "tipsPlaylist": ""
+      }
+    },
+    {
+      "distroName": "manjaro",
+      "distroTitle": "Manjaro",
+      "graphics": { "iconURL": "manjaro.svg" },
+      "moreinfo": {
+        "desktops": "Cinnamon, Enlightenment, GNOME, KDE, LXDE, MATE, Xfce",
+        "similar": "(with the same DE..) Antergos or Arch",
+        "releaseCycle": "",
+        "target": "Any User",
+        "featured": "yes"
+      },
+      "screenshots": {
+        "desktop": "KDE/Plasma 5",
+        "src": "manjaro.png",
+        "theme": "",
+        "thumbnails": "manjaro_tn.png"
+      },
+      "version": "",
+      "website": {
+        "download": "http://manjaro.org/get-manjaro/",
+        "forum": "http://forum.manjaro.org/",
+        "homepage": "https://manjaro.github.io",
+        "myPage": "http://xmetal.x10.mx/linuxHQ/distros/arch/manjaro.php"
+      },
+      "youtube": {
+        "reviewPlaylist": "PLrh2y86lvcJcTUd-HPh9CxBvHkrsDGOes",
+        "tipsPlaylist": ""
+      }
+    }
+  ],
+  "debian": [
+    {
+      "distroName": "antix",
+      "distroTitle": "Anti-X",
+      "graphics": { "iconURL": "" },
+      "moreinfo": {
+        "desktops": "",
+        "releaseCycle": "",
+        "target": "",
+        "featured": ""
+      },
+      "screenshots": {
+        "desktop": "",
+        "src": "antix.png",
+        "theme": "",
+        "thumbnails": "antix_tn.png"
+      },
+      "version": "19",
+      "website": {
+        "download": "https://antixlinux.com/download/",
+        "forum": "https://www.antixforum.com/",
+        "homepage": "https://antixlinux.com/",
+        "myPage": "http://xmetal.x10.mx/linuxHQ/distros/debian/",
+        "similar": "Linux Mint Debian Edition, Sparky Linux"
+      },
+      "youtube": {
+        "reviewPlaylist": "PLrh2y86lvcJeeTlI3BEHVMxYbKYy74ABJ",
+        "tipsPlaylist": "https://www.youtube.com/playlist?list=PLrh2y86lvcJddBni43z2PSd9H0XotKdn4"
+      }
+    },
+    {
+      "distroName": "bunsenlabs",
+      "distroTitle": "Bunsenlabs",
+      "graphics": { "iconURL": "bunsenlabs.png" },
+      "moreinfo": {
+        "desktops": "Openbox",
+        "similar": "The Debian familys version of Archbang OR Debian with Openbox installed",
+        "target": "Moderate to Advanced Users (for the most part)",
+        "type": "",
+        "releaseCycle": "",
+        "featured": ""
+      },
+      "screenshots": {
+        "desktop": "",
+        "src": "bunsenlabs.png",
+        "theme": "",
+        "thumbnails": "bunsenlabs_tn.png"
+      },
+      "version": "BunsenLabs Linux Lithium",
+      "website": {
+        "download": "https://www.bunsenlabs.org/installation.html",
+        "forum": "https://forums.bunsenlabs.org",
+        "homepage": "https://www.bunsenlabs.org",
+        "myPage": "http://xmetal.x10.mx/linuxHQ/distros/debian/bunsenlabs.php"
+      },
+      "youtube": {
+        "reviewPlaylist": "PLrh2y86lvcJeeTlI3BEHVMxYbKYy74ABJ",
+        "tipsPlaylist": "https://www.youtube.com/playlist?list=PLrh2y86lvcJddBni43z2PSd9H0XotKdn4"
+      }
+    },
+    {
+      "distroName": "debian",
+      "distroTitle": "Debian",
+      "graphics": { "iconURL": "debian.svg" },
+      "moreinfo": {
+        "desktops": "Various",
+        "similar": "Sparky Linux, Bunsenlabs, Linux Mint Debian Edition",
+        "target": "",
+        "releaseCycle": "",
+        "featured": ""
+      },
+      "screenshots": {
+        "desktop": "",
+        "src": "debian.png",
+        "theme": "",
+        "thumbnails": "debian_tn.png"
+      },
+      "version": "10.x",
+      "website": {
+        "download": "",
+        "forum": "http://forums.debian.net/",
+        "homepage": "http://www.debian.org/",
+        "myPage": "http://xmetal.x10.mx/linuxHQ/distros/debian/debian.php"
+      },
+      "youtube": {
+        "reviewPlaylist": "PLrh2y86lvcJeeTlI3BEHVMxYbKYy74ABJ",
+        "tipsPlaylist": "https://www.youtube.com/playlist?list=PLrh2y86lvcJddBni43z2PSd9H0XotKdn4"
+      }
+    },
+    {
+      "distroName": "lmde",
+      "distroTitle": "Linux Mint Debian Edition",
+      "graphics": { "iconURL": "mint.png" },
+      "moreinfo": {
+        "desktops": "Mate, Cinnamon",
+        "similar": "Debian with Cinnamon (with LMDE 3, the Mate version, was dropped)OR a \"Cross between Linux Mint (Ubuntu based) and Debian",
+        "target": "",
+        "type": "",
+        "featured": ""
+      },
+      "screenshots": {
+        "desktop": "",
+        "src": "",
+        "theme": "",
+        "thumbnails": ""
+      },
+      "version": "4",
+      "website": {
+        "download": "http://www.linuxmint.com/download_lmde.php",
+        "forum": "",
+        "homepage": "http://www.linuxmint.com/download_lmde.php",
+        "myPage": "http://xmetal.x10.mx/linuxHQ/distros/debian/lmde.php"
+      },
+      "youtube": {
+        "reviewPlaylist": "PLrh2y86lvcJeeTlI3BEHVMxYbKYy74ABJ",
+        "tipsPlaylist": "https://www.youtube.com/playlist?list=PLrh2y86lvcJddBni43z2PSd9H0XotKdn4"
+      }
+    },
+    {
+      "distroName": "solyd",
+      "distroTitle": "SoyldXK",
+      "graphics": { "iconURL": "solydxk.png" },
+      "moreinfo": {
+        "desktops": "KDE aka Plama 5 / XFCE",
+        "similar": "Debian with XFCE or KDE/Plasma 5 installed I suppose",
+        "target": "",
+        "type": "",
+        "releaseCycle": "",
+        "featured": ""
+      },
+      "screenshots": {
+        "desktop": "XFCE",
+        "src": "soyldxk.png",
+        "theme": "",
+        "thumbnails": "soyldxk_tn.png"
+      },
+      "version": "10",
+      "website": {
+        "download": "http://downloads.solydxk.com/",
+        "forum": "",
+        "homepage": "http://solydxk.com/",
+        "myPage": "http://xmetal.x10.mx/linuxHQ/distros/debian/soyldxk.php"
+      },
+      "youtube": {
+        "reviewPlaylist": "PLrh2y86lvcJeeTlI3BEHVMxYbKYy74ABJ",
+        "tipsPlaylist": "https://www.youtube.com/playlist?list=PLrh2y86lvcJddBni43z2PSd9H0XotKdn4"
+      }
+    },
+    {
+      "distroName": "sparky",
+      "distroTitle": "Sparky Linux",
+      "graphics": { "iconURL": "#" },
+      "moreinfo": {
+        "desktops": "Various",
+        "similar": "Various",
+        "target": "Any User",
+        "type": "",
+        "featured": ""
+      },
+      "screenshots": {
+        "desktop": "",
+        "src": "sparky.png",
+        "theme": "",
+        "thumbnails": "sparky_tn.png"
+      },
+      "version": "",
+      "website": {
+        "download": "https://sparkylinux.org/download/",
+        "forum": "#",
+        "homepage": "https://sparkylinux.org/",
+        "myPage": "http://xmetal.x10.mx/linuxHQ/distros/debian/sparky.php"
+      },
+      "youtube": {
+        "reviewPlaylist": "PLrh2y86lvcJeeTlI3BEHVMxYbKYy74ABJ",
+        "tipsPlaylist": "https://www.youtube.com/playlist?list=PLrh2y86lvcJddBni43z2PSd9H0XotKdn4"
+      }
+    },
+    {
+      "distroName": "mx",
+      "distroTitle": "MX Linux",
+      "graphics": { "iconURL": "mx.png" },
+      "moreinfo": {
+        "desktops": "",
+        "similar": "antiX",
+        "target": "Any User",
+        "type": "",
+        "releaseCycle": "",
+        "featured": ""
+      },
+      "screenshots": {
+        "desktop": "",
+        "src": "mx.png",
+        "theme": "",
+        "thumbnails": "mx_tn.png"
+      },
+      "version": "16",
+      "website": {
+        "download": "https://mxlinux.org/download-links",
+        "forum": "",
+        "homepage": "https://mxlinux.org/",
+        "myPage": "http://xmetal.x10.mx/linuxHQ/distros/debian/mxlinux.php"
+      },
+      "youtube": {
+        "reviewPlaylist": "PLrh2y86lvcJeeTlI3BEHVMxYbKYy74ABJ",
+        "tipsPlaylist": "https://www.youtube.com/playlist?list=PLrh2y86lvcJddBni43z2PSd9H0XotKdn4"
+      }
+    },
+    {
+      "distroName": "cbplusplus",
+      "distroTitle": "Crunchbang++",
+      "graphics": { "iconURL": "" },
+      "moreinfo": {
+        "desktops": "Openbox",
+        "similar": "Debian with Openbox",
+        "target": "",
+        "type": "",
+        "releaseCycle": "",
+        "featured": ""
+      },
+      "screenshots": {
+        "desktop": "",
+        "src": "",
+        "theme": "",
+        "thumbnails": ""
+      },
+      "version": "",
+      "website": {
+        "download": "https://crunchbangplusplus.org/download/",
+        "forum": "https://www.reddit.com/r/crunchbangplusplus/",
+        "homepage": "https://crunchbangplusplus.org/",
+        "myPage": "http://xmetal.x10.mx/linuxHQ/distros/"
+      },
+      "youtube": {
+        "reviewPlaylist": "PLrh2y86lvcJeeTlI3BEHVMxYbKYy74ABJ",
+        "tipsPlaylist": "https://www.youtube.com/playlist?list=PLrh2y86lvcJddBni43z2PSd9H0XotKdn4"
+      }
+    },
+    {
+      "distroName": "makulu",
+      "distroTitle": "Makulu",
+      "graphics": { "iconURL": "makulu.png" },
+      "moreinfo": {
+        "desktops": "Various",
+        "similar": "",
+        "target": "",
+        "type": "",
+        "releaseCycle": "",
+        "featured": "yes"
+      },
+      "screenshots": {
+        "desktop": "Plasma 5",
+        "src": "makulu.png",
+        "theme": "",
+        "thumbnails": "makulu_tn.png"
+      },
+      "version": "",
+      "website": {
+        "download": "http://www.makululinux.com/wp/downloads/",
+        "forum": "http://makululinux.discussion.community/",
+        "homepage": "http://www.makululinux.com/",
+        "myPage": "http://xmetal.x10.mx/linuxHQ/distros/"
+      },
+      "youtube": {
+        "reviewPlaylist": "PLrh2y86lvcJeeTlI3BEHVMxYbKYy74ABJ",
+        "tipsPlaylist": "https://www.youtube.com/playlist?list=PLrh2y86lvcJddBni43z2PSd9H0XotKdn4"
+      }
+    },
+    {
+      "distroName": "deepin",
+      "distroTitle": "Deepin",
+      "graphics": { "iconURL": "deepin.png" },
+      "moreinfo": {
+        "base": "Debian",
+        "desktops": "Deepin Desktop Envirnoment",
+        "similar": "",
+        "releaseCycle": "",
+        "target": "Any Use",
+        "featured": ""
+      },
+      "screenshots": {
+        "desktop": "",
+        "src": "deepin.png",
+        "theme": "",
+        "thumbnails": "deepin_tn.png"
+      },
+      "version": "",
+      "website": {
+        "download": "https://www.deepin.org/en/download/",
+        "forum": "https://bbs.deepin.org/",
+        "homepage": "https://deepin.org/",
+        "myPage": "http://xmetal.x10.mx/linuxHQ/distros/"
+      },
+      "youtube": {
+        "reviewPlaylist": "PLrh2y86lvcJeeTlI3BEHVMxYbKYy74ABJ",
+        "tipsPlaylist": "PLrh2y86lvcJddBni43z2PSd9H0XotKdn4"
+      }
+    }
+  ],
+  "gentoo": [
+    {
+      "distroName": "calculate",
+      "distroTitle": "Calculate",
+      "graphics": { "iconURL": "calculate.png" },
+      "moreinfo": {
+        "desktops": "Various",
+        "similar": "Gentoo, Sabayon",
+        "target": "Advanced Users",
+        "releaseCycle": "",
+        "featured": ""
+      },
+      "screenshots": {
+        "desktop": "",
+        "src": "",
+        "theme": "",
+        "thumbnails": ""
+      },
+      "version": "",
+      "website": {
+        "download": "http://www.calculate-linux.org/main/en/download",
+        "forum": "http://www.calculate-linux.org/projects/en/boards",
+        "homepage": "http://www.calculate-linux.org/",
+        "myPage": "http://xmetal.x10.mx/linuxHQ/distros/"
+      },
+      "youtube": { "reviewPlaylist": "", "tipsPlaylist": "" }
+    },
+    {
+      "distroName": "gentoo",
+      "distroTitle": "Gentoo",
+      "graphics": { "iconURL": "#" },
+      "moreinfo": {
+        "desktops": "Various",
+        "similar": "Calculate Linux, Sabayon",
+        "target": "Advanced Users",
+        "type": "",
+        "releaseCycle": "",
+        "featured": ""
+      },
+      "screenshots": {
+        "desktop": "",
+        "distro": "",
+        "src": "",
+        "theme": "",
+        "thumbnails": ""
+      },
+      "version": "",
+      "website": {
+        "download": "",
+        "forum": "",
+        "homepage": "http://www.gentoo.org/",
+        "myPage": "http://xmetal.x10.mx/linuxHQ/distros/"
+      },
+      "youtube": { "reviewPlaylist": "", "tipsPlaylist": "" }
+    },
+    {
+      "distroName": "sabayon",
+      "distroTitle": "Sabayon",
+      "graphics": { "iconURL": "#" },
+      "moreinfo": {
+        "desktops": "Various",
+        "similar": "Gentoo, Calculate Linux",
+        "target": "Advanced Users",
+        "type": "Rolling",
+        "releaseCycle": "",
+        "featured": ""
+      },
+      "screenshots": {
+        "desktop": "",
+        "distro": "",
+        "src": "",
+        "theme": "",
+        "thumbnails": ""
+      },
+      "version": "",
+      "website": {
+        "download": "http://www.sabayon.org/download",
+        "forum": "http://forum.sabayon.org/",
+        "homepage": "http://www.sabayon.org/",
+        "myPage": "http://xmetal.x10.mx/linuxHQ/distros/"
+      },
+      "youtube": { "reviewPlaylist": "", "tipsPlaylist": "" }
+    }
+  ],
+  "supported": {
+    "currentlySupported": {
+      "arch": "all-if updated",
+      "debian": "",
+      "fedora": "Fedora 33, Fedora 34, Rawhide",
+      "opensuse": "Leap 15.2, Tumbleweed",
+      "ubuntu": "18.04 LTS, 20.04 LTS, 20.10"
+    },
+    "eol": {
+      "arch": "As with any rolling release the more out of date it is, since the prior updates, the more things on some setups MAY have the chance of breaking when an update IS done.",
+      "debian": "",
+      "fedora": "",
+      "opensuse": "openSUSE Leap 15.2:December 31, 2021",
+      "ubuntu": "Ubuntu 18.04 LTS End of Life:April 2023, Ubuntu 20.04 LTS End of Life:April 2025"
+    }
+  },
+  "ubuntu": [
+    {
+      "distroName": "elementary",
+      "distroTitle": "ElementaryOS",
+      "graphics": { "iconURL": "elementary.svg" },
+      "moreinfo": {
+        "base": "Ubuntu Long Term Support (LTS)",
+        "desktops": "Pantheon",
+        "similar": "",
+        "releaseCycle": "Follows Ubuntu LTS releases",
+        "target": "Any User/ New Use",
+        "featured": "yes"
+      },
+      "screenshots": {
+        "src": "elementary.png",
+        "thumbnails": "elementary_tn.png",
+        "theme": ""
+      },
+      "version": "Loki",
+      "website": {
+        "download": "http://sourceforge.net/projects/elementaryos/files/",
+        "forum": "https://elementaryforums.com/index.php",
+        "homepage": "http://elementary.io",
+        "myPage": "http://xmetal.x10.mx/linuxHQ/distros/"
+      },
+      "youtube": {
+        "reviewPlaylist": "PLrh2y86lvcJfmyxuXW01A-ujfqrJzL8Ck",
+        "tipsPlaylist": ""
+      }
+    },
+    {
+      "distroName": "mint",
+      "distroTitle": "Linux Mint",
+      "graphics": { "iconURL": "linuxmint.svg" },
+      "moreinfo": {
+        "desktops": "Mate, XFCE, Cinnamon, Plasma 5",
+        "similar": "Cinnamon, Mate, Plasma 5 (removed in Version 19 as an official ISO), XFCE",
+        "target": "Any/New Users",
+        "type": "Ubuntu LTS Based - Mint 18.x based on 16.04, Ubuntu 19.x is based on 18.04, Mint 20.x based on Ubuntu 20.04",
+        "releaseCycle": "Follows Ubuntu Long Term Support releases",
+        "featured": "yes"
+      },
+      "screenshots": {
+        "desktop": "Cinnamon",
+        "icon": "Mint-Y",
+        "src": "cinnamonMint.png",
+        "theme": "Mint-Y",
+        "thumbnails": "cinnamonMint_tn.png"
+      },
+      "version": "19.x, 20.x",
+      "website": {
+        "download": "http://www.linuxmint.com/download.php",
+        "forum": "http://linuxmint.com/forum/",
+        "homepage": "http://www.linuxmint.com",
+        "myPage": "http://xmetal.x10.mx/linuxHQ/distros/"
+      },
+      "youtube": {
+        "reviewPlaylist": "PLrh2y86lvcJfmyxuXW01A-ujfqrJzL8Ck",
+        "tipsPlaylist": ""
+      }
+    },
+    {
+      "distroName": "kdeneon",
+      "distroTitle": "KDE Neon",
+      "graphics": { "iconURL": "neon.svg" },
+      "moreinfo": {
+        "base": "Ubuntu Long Term Support (LTS) - 18.04 Currently",
+        "desktops": "Plasma 5",
+        "similar": "Kubuntu",
+        "target": "Any User",
+        "releaseCycle": "",
+        "featured": ""
+      },
+      "screenshots": {
+        "desktop": "",
+        "src": "kdeneon.png",
+        "theme": "",
+        "thumbnails": "kdeneon_tn.png"
+      },
+      "version": "",
+      "website": {
+        "download": "https://neon.kde.org/download",
+        "forum": "https://forum.kde.org/",
+        "homepage": "https://neon.kde.org/",
+        "myPage": "http://xmetal.x10.mx/linuxHQ/distros/"
+      },
+      "youtube": {
+        "reviewPlaylist": "PLrh2y86lvcJfmyxuXW01A-ujfqrJzL8Ck",
+        "tipsPlaylist": ""
+      }
+    },
+    {
+      "distroName": "peppermint",
+      "distroTitle": "Peppermint",
+      "graphics": { "iconURL": "peppermint.png" },
+      "moreinfo": {
+        "desktops": "LXDE/XFCE",
+        "similar": "LXLE, Lubuntu",
+        "target": "Any User",
+        "type": "",
+        "featured": ""
+      },
+      "screenshots": {
+        "desktop": "XFCE",
+        "src": "peppermint.png",
+        "theme": "",
+        "thumbnails": "peppermint_tn.png"
+      },
+      "version": "",
+      "website": {
+        "download": "https://peppermintos.com/",
+        "forum": "",
+        "homepage": "http://peppermintos.com/",
+        "myPage": "http://xmetal.x10.mx/linuxHQ/distros/"
+      },
+      "youtube": {
+        "reviewPlaylist": "PLrh2y86lvcJfmyxuXW01A-ujfqrJzL8Ck",
+        "tipsPlaylist": ""
+      }
+    },
+    {
+      "distroName": "kubuntu",
+      "distroTitle": "Kubuntu",
+      "graphics": { "iconURL": "kubuntu.png" },
+      "moreinfo": {
+        "base": "Ubuntu (LTS and non-LTS)",
+        "desktops": "Plasma 5",
+        "similar": "Linux Mint KDE edition OR Ubuntu with kde-standard/kde-full installed OR Netrunner (Ubuntu based .. .not the rolling release)",
+        "target": "Any User",
+        "releaseCycle": "",
+        "featured": ""
+      },
+      "screenshots": {
+        "desktop": "KDE / Plasma 5",
+        "src": "kubuntu.png",
+        "theme": "",
+        "thumbnails": "kubuntu_tn.png"
+      },
+      "version": "18.04 LTS, 20.04 LTS, 20.10, (soon) 21.04",
+      "website": {
+        "download": "http://www.ubuntu.com/desktop/get-ubuntu/download",
+        "forum": "http://ubuntuforums.org/",
+        "homepage": "http://www.kubuntu.org/",
+        "myPage": "http://xmetal.x10.mx/linuxHQ/distros/"
+      },
+      "youtube": {
+        "reviewPlaylist": "PLrh2y86lvcJfmyxuXW01A-ujfqrJzL8Ck",
+        "tipsPlaylist": ""
+      }
+    },
+    {
+      "distroName": "lubuntu",
+      "distroTitle": "Lubuntu",
+      "graphics": { "iconURL": "lubuntu.svg" },
+      "moreinfo": {
+        "base": "Ubuntu Long Term Support (LTS) and non-LTS",
+        "desktops": "LXDE, LXQT",
+        "similar": "",
+        "target": "Any/New Users",
+        "releaseCycle": "",
+        "featured": ""
+      },
+      "screenshots": {
+        "desktop": "LXQT",
+        "src": "lubuntu.png",
+        "theme": "",
+        "thumbnails": "lubuntu_tn.png"
+      },
+      "version": "16.04 LTS, 18.04 LTS, 18.10",
+      "website": {
+        "download": "https://lubuntu.net/downloads/",
+        "forum": "http://ubuntuforums.org/",
+        "homepage": "http://lubuntu.net",
+        "myPage": "http://xmetal.x10.mx/linuxHQ/distros/"
+      },
+      "youtube": {
+        "reviewPlaylist": "PLrh2y86lvcJfmyxuXW01A-ujfqrJzL8Ck",
+        "tipsPlaylist": ""
+      }
+    },
+    {
+      "distroName": "ubuntu",
+      "distroTitle": "Ubuntu",
+      "graphics": { "iconURL": "ubuntu.svg" },
+      "moreinfo": {
+        "desktops": "Unity, Gnomeshell",
+        "similar": "(many 'buntu flavors), Linux Lite, Linux Mint, Uberstudent",
+        "target": "Any User",
+        "type": "LTS and non-LTS",
+        "releaseCycle": "",
+        "featured": ""
+      },
+      "screenshots": {
+        "desktop": "Gnome Shell",
+        "src": "ubuntu2010settings.png",
+        "theme": "",
+        "thumbnails": "ubuntu2010settings_tn.png"
+      },
+      "version": "18.04 LTS, Ubuntu 20.04 LTS, 20.10",
+      "website": {
+        "download": "http://www.ubuntu.com/desktop/get-ubuntu/download",
+        "forum": "http://ubuntuforums.org/",
+        "homepage": "http://www.ubuntu.com",
+        "myPage": "http://xmetal.x10.mx/linuxHQ/distros/"
+      },
+      "youtube": {
+        "reviewPlaylist": "PLrh2y86lvcJfmyxuXW01A-ujfqrJzL8Ck",
+        "tipsPlaylist": ""
+      }
+    },
+    {
+      "distroName": "ubuntumate",
+      "distroTitle": "Ubuntu Mate",
+      "graphics": { "iconURL": "ubuntuMate.svg" },
+      "moreinfo": {
+        "base": "Ubuntu Long Term Support (LTS) and non-LTS",
+        "desktops": "Mate",
+        "similar": "Linux Mint Mate",
+        "target": "Any User",
+        "releaseCycle": "",
+        "featured": "yes"
+      },
+      "screenshots": {
+        "desktop": "Mate",
+        "src": "umate1.png",
+        "thumbnails": "umate1_tn.png",
+        "theme": ""
+      },
+      "version": "16.04 LTS, 18.04 LTS, 18.10",
+      "website": {
+        "download": "https://ubuntu-mate.org/download/",
+        "forum": "https://ubuntu-mate.community/",
+        "homepage": "http://ubuntu-mate.org"
+      },
+      "youtube": {
+        "reviewPlaylist": "PLrh2y86lvcJfmyxuXW01A-ujfqrJzL8Ck",
+        "tipsPlaylist": ""
+      }
+    },
+    {
+      "distroName": "xubuntu",
+      "distroTitle": "xubuntu",
+      "graphics": { "iconURL": "xubuntu.svg" },
+      "moreinfo": {
+        "base": "Ubuntu Long Term Support (LTS) and non-LTS",
+        "desktops": "XFCE",
+        "similar": "SolydX, Linux Mint XFCE, Linux Lite",
+        "target": "Any User",
+        "releaseCycle": "",
+        "featured": ""
+      },
+      "screenshots": {
+        "desktop": "XFCE",
+        "src": "xubuntu1.png",
+        "theme": "",
+        "thumbnails": "xubuntu1_tn.png"
+      },
+      "version": "18.04 LTS, 20.04 LTS, 20.10",
+      "website": {
+        "download": "http://xubuntu.org/getxubuntu/",
+        "forum": "",
+        "homepage": "http://www.xubuntu.com",
+        "myPage": "http://xmetal.x10.mx/linuxHQ/distros/"
+      },
+      "youtube": {
+        "reviewPlaylist": "PLrh2y86lvcJfmyxuXW01A-ujfqrJzL8Ck",
+        "tipsPlaylist": ""
+      }
+    },
+    {
+      "distroName": "zorin",
+      "distroTitle": "Zorin",
+      "graphics": { "iconURL": "zorin.png" },
+      "moreinfo": {
+        "base": "Ubuntu Long Term Support (LTS)",
+        "desktops": "Gnome, XFCE",
+        "similar": "",
+        "releaseCycle": "",
+        "target": "New Users",
+        "featured": ""
+      },
+      "screenshots": { "desktop": "", "src": "", "theme": "" },
+      "version": "",
+      "website": {
+        "download": "http://zorin-os.com/free.html\"",
+        "forum": "http://www.zoringroup.com/forum/viewforum.php?f=3",
+        "homepage": "http://www.zorin-os.com/",
+        "myPage": "http://xmetal.x10.mx/linuxHQ/distros/"
+      },
+      "youtube": {
+        "reviewPlaylist": "PLrh2y86lvcJfmyxuXW01A-ujfqrJzL8Ck",
+        "tipsPlaylist": ""
+      }
+    },
+    {
+      "distroName": "linuxlite",
+      "distroTitle": "Linux Lite",
+      "graphics": { "iconURL": "lite.png" },
+      "moreinfo": {
+        "base": "Ubuntu Long Term Support (LTS)",
+        "desktops": "XFCE",
+        "similar": "Linux Mint + XFCE, Xubuntu",
+        "target": "Any/New Users",
+        "releaseCycle": "",
+        "featured": ""
+      },
+      "screenshots": {
+        "desktop": "XFCE",
+        "src": "linuxlite.png",
+        "theme": "",
+        "thumbnails": "linuxlite_tn.png"
+      },
+      "version": "",
+      "website": {
+        "download": "http://sourceforge.net/projects/linuxlite/files",
+        "forum": "https://www.linuxliteos.com/forums/",
+        "homepage": "http://www.linuxliteos.com",
+        "myPage": "http://xmetal.x10.mx/linuxHQ/distros/"
+      },
+      "youtube": {
+        "reviewPlaylist": "PLrh2y86lvcJfmyxuXW01A-ujfqrJzL8Ck",
+        "tipsPlaylist": ""
+      }
+    },
+    {
+      "distroName": "lxle",
+      "distroTitle": "LXLE",
+      "graphics": { "iconURL": "lxle.png" },
+      "moreinfo": {
+        "base": "Ubuntu Long Term Support (LTS) and non-LTS",
+        "desktops": "LXDE",
+        "similar": "Lubuntu or any other Ubuntu based distro with LXDE installed",
+        "releaseCycle": "",
+        "target": "Any Use",
+        "featured": ""
+      },
+      "screenshots": {
+        "desktop": "",
+        "src": "lxle.png",
+        "theme": "",
+        "thumbnails": "lxle_tn.png"
+      },
+      "version": "",
+      "website": {
+        "download": "http://www.lxle.net/download",
+        "forum": "http://lxle.net/forum/",
+        "homepage": "http://www.lxle.net",
+        "myPage": "http://xmetal.x10.mx/linuxHQ/distros/"
+      },
+      "youtube": {
+        "reviewPlaylist": "PLrh2y86lvcJfmyxuXW01A-ujfqrJzL8Ck",
+        "tipsPlaylist": ""
+      }
+    }
+  ]
+}

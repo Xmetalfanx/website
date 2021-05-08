@@ -1,1 +1,205 @@
-let distroResults=document.getElementById("linux-primary-content"),myPage="/linuxHQ/distro/",DWPage="https://distrowatch.com/",distroGraphics="/linuxHQ/graphics/distros/",YTPLBase="https://www.youtube.com/playlist?list=",YTPLEmbeddedBase="https://www.youtube.com/embed/videoseries?list=";function displayDistroOutput(e,n,s,a,t,r,o,i,l,d,c,p,u,b,h){let f="/linuxHQ/screenshots/"+e+"/";const m=`\n\n      <div class="card mx-auto w-90">\n        ${`\n      <div class="card__header">\n        <img src="${distroGraphics}${s}" alt="${a} icon" class="icon--size48">\n        <h3>${a}</h3>\n      </div>\n  `}\n        <div class="card__body">\n\n            \x3c!-- For both col's (so to speak) --\x3e\n            <div class="d-flex jc-space-between">\n\n            \x3c!-- for left hand col ... left of the screenshots --\x3e\n            <div class="d-md-inline-block">\n\n                <span class="font-weight-bold">Homepage: </span>\n                    <a href="${t}" target="_blank" rel='noreferrer'>${a}'s Homepage\n                    </a><br/>\n\n                <span class="font-weight-bold">Download: </span>\n                    <a href="${r}" target="_blank" rel='noreferrer'>${a}'s Download Page\n                    </a><br/>\n\n                <span class="font-weight-bold">Forums:</span>\n                    <a href="${o}" target="_blank" rel='noreferrer'>${a}'s Forum</a><br/>\n\n                <span class="font-weight-bold">Distrowatch Page: </span>\n                    <a href="${DWPage}${n}" blank="_blank" rel='noreferrer'>${a} Distrowatch Link\n                    </a>\n\n                <div class="py-3">\n                  <h4> Versions</h4>\n                  <span class="font-weight-bold">Latest Version: </span><br />\n                  <span class="font-weight-bold">Currently Supported Versions: </span><br />\n                </div>\n\n\n                  ${`\n      <div class="py-3">\n        <span class="font-weight-bold">Target Audience: </span>${b}<br />\n        <span class="font-weight-bold">Featured Desktops: </span>${p}<br />\n        <span class="font-weight-bold">Similar Distros: </span>${u}<br />\n      </div>\n    `}\n              </div>\n\n                    <div> ${`\n\n        <a href="${f}${i}" target="_blank">\n            <img class="thumbnail-fluid--lg d-none d-md-inline-block" src="${f+"thumbnails/"}${l}" alt="${a} Screenshot" >\n        </a>\n    `}</div>\n                </div>\n\n\n                    <hr /> ${`\n\n        <h4>Youtube Playlists</h4>\n\n          <div class="d-none d-lg-flex flex-wrap py-2 jc-space-evenly">\n            <iframe class="YTPlaylistsTN" src="${YTPLEmbeddedBase}${d}" target="_blank" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>\n            <iframe class="YTPlaylistsTN" src="${YTPLEmbeddedBase}${c}" target="_blank" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>\n          </div>\n        </div>\n\n        <div class="d-lg-none d-xs-block p-3">\n            <div>\n                <a href="${YTPLBase}${d}" target="_blank" rel='noreferrer'>Youtube Review/Walkthrough/Comments Playlist </a>\n            </div>\n            <div>\n                <a href="${YTPLBase}${c}" target="_blank" rel='noreferrer'>Youtube Tips/Tricks/Tutorial Playlist</a>\n            </div>\n        </div>\n    `}\n\n                </div>\n            </div>\n        </div>\n        `;distroResults.insertAdjacentHTML("beforeend",m)}function getDistroData(e,n){jsonURL="/linuxHQ/json/distros.json",$.getJSON(jsonURL,(function(e){$.each(e,(function(e,n){for(let s=0;s<n.length;s++){let a=e,t=n[s].distroName,r=n[s].distroTitle,o=n[s].graphics.iconURL,i=n[s].moreinfo.desktops,l=n[s].moreinfo.similar,d=n[s].moreinfo.target,c=n[s].moreinfo.software,p=n[s].website.homepage,u=n[s].website.download,b=n[s].website.forum,h=n[s].screenshots.thumbnails,f=n[s].screenshots.src,m=n[s].youtube.reviewPlaylist,g=n[s].youtube.tipsPlaylist;localDistroName==t&&displayDistroOutput(a,t,o,r,p,u,b,f,h,m,g,i,l,d,c)}}))}))}
+// let for where to put the output
+let distroResults = document.getElementById('linux-primary-content');
+
+let myPage = '/linuxHQ/distro/';
+let DWPage = 'https://distrowatch.com/';
+let distroGraphics = '/linuxHQ/graphics/distros/';
+let YTPLBase = 'https://www.youtube.com/playlist?list=';
+let YTPLEmbeddedBase = 'https://www.youtube.com/embed/videoseries?list=';
+
+function displayDistroOutput(
+  currentDistroFamily,
+  currentDistroName,
+  currentDistroIcon,
+  currentDistroTitle,
+  currentDistroHomepage,
+  currentDistroDownload,
+  currentDistroForum,
+  currentDistroScreenshot,
+  currentDistroScreenshotTN,
+  currentDistroYTReviewPLaylist,
+  currentDistroYTTipsPLaylist,
+  currentDistroFeaturesDesktops,
+  currentDistroSimilarDistros,
+  currentDistroTargetAudience,
+  currentDistroSoftwareType,
+  currentDistroBaseSupported,
+  currentDistroBaseEOL
+) {
+  let distroSShotPath = '/linuxHQ/screenshots/' + currentDistroFamily + '/';
+  let distroSShotTNPath = distroSShotPath + 'thumbnails/';
+
+  // Template Literal for output
+
+  const currentDistroSShotOutput = `
+
+        <a href="${distroSShotPath}${currentDistroScreenshot}" target="_blank">
+            <img class="thumbnail-fluid--lg d-none d-md-inline-block" src="${distroSShotTNPath}${currentDistroScreenshotTN}" alt="${currentDistroTitle} Screenshot" >
+        </a>
+    `;
+
+  const currentDistroMoreInfoOutput = `
+      <div class="py-3">
+        <span class="font-weight-bold">Target Audience: </span>${currentDistroTargetAudience}<br />
+        <span class="font-weight-bold">Featured Desktops: </span>${currentDistroFeaturesDesktops}<br />
+        <span class="font-weight-bold">Similar Distros: </span>${currentDistroSimilarDistros}<br />
+      </div>
+    `;
+
+  const currentDistroYTOutput = `
+
+        <h4>Youtube Playlists</h4>
+
+          <div class="d-none d-lg-flex flex-wrap py-2 jc-space-evenly">
+            <iframe class="YTPlaylistsTN" src="${YTPLEmbeddedBase}${currentDistroYTReviewPLaylist}" target="_blank" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+            <iframe class="YTPlaylistsTN" src="${YTPLEmbeddedBase}${currentDistroYTTipsPLaylist}" target="_blank" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+          </div>
+        </div>
+
+        <div class="d-lg-none d-xs-block p-3">
+            <div>
+                <a href="${YTPLBase}${currentDistroYTReviewPLaylist}" target="_blank" rel='noreferrer'>Youtube Review/Walkthrough/Comments Playlist </a>
+            </div>
+            <div>
+                <a href="${YTPLBase}${currentDistroYTTipsPLaylist}" target="_blank" rel='noreferrer'>Youtube Tips/Tricks/Tutorial Playlist</a>
+            </div>
+        </div>
+    `;
+
+  const currentDistoHeaderOutput = `
+      <div class="card__header">
+        <img src="${distroGraphics}${currentDistroIcon}" alt="${currentDistroTitle} icon" class="icon--size48">
+        <h3>${currentDistroTitle}</h3>
+      </div>
+  `;
+
+  const currentDistroInfoOutput = `
+
+      <div class="card mx-auto w-90">
+        ${currentDistoHeaderOutput}
+        <div class="card__body">
+
+            <!-- For both col's (so to speak) -->
+            <div class="d-flex jc-space-between">
+
+            <!-- for left hand col ... left of the screenshots -->
+            <div class="d-md-inline-block">
+
+                <span class="font-weight-bold">Homepage: </span>
+                    <a href="${currentDistroHomepage}" target="_blank" rel='noreferrer'>${currentDistroTitle}'s Homepage
+                    </a><br/>
+
+                <span class="font-weight-bold">Download: </span>
+                    <a href="${currentDistroDownload}" target="_blank" rel='noreferrer'>${currentDistroTitle}'s Download Page
+                    </a><br/>
+
+                <span class="font-weight-bold">Forums:</span>
+                    <a href="${currentDistroForum}" target="_blank" rel='noreferrer'>${currentDistroTitle}'s Forum</a><br/>
+
+                <span class="font-weight-bold">Distrowatch Page: </span>
+                    <a href="${DWPage}${currentDistroName}" blank="_blank" rel='noreferrer'>${currentDistroTitle} Distrowatch Link
+                    </a>
+
+                <div class="py-3">
+                  <h4> Versions</h4>
+                  <span class="font-weight-bold">Latest Version: ${currentDistroBaseSupported} </span><br />
+                  <span class="font-weight-bold">Currently Supported Versions: ${currentDistroBaseEOL} </span><br />
+                </div>
+
+
+                  ${currentDistroMoreInfoOutput}
+              </div>
+
+                    <div> ${currentDistroSShotOutput}</div>
+                </div>
+
+
+                    <hr /> ${currentDistroYTOutput}
+
+                </div>
+            </div>
+        </div>
+        `;
+
+  distroResults.insertAdjacentHTML('beforeend', currentDistroInfoOutput);
+}
+
+// "main" function
+function getDistroData(data, $localDistroName) {
+  jsonURL = '/linuxHQ/json/distros.json';
+
+  // Get JSON Data
+  $.getJSON(jsonURL, function (data) {
+    $.each(data, function (key, value) {
+      for (let distroFamily = 0; distroFamily < value.length; distroFamily++) {
+        //////////////////////////////////////////////////////////////////////////
+        // DECLARE variables
+
+        let currentDistroFamily = key;
+        console.log("Current distro family: " + currentDistroFamily);
+
+        // Name/Title
+        let currentDistroName = value[distroFamily].distroName;
+        let currentDistroTitle = value[distroFamily].distroTitle;
+
+        // graphics
+        let currentDistroIcon = value[distroFamily].graphics.iconURL;
+
+        // moreInfo
+        let currentDistroFeaturesDesktops =
+          value[distroFamily].moreinfo.desktops;
+        let currentDistroSimilarDistros = value[distroFamily].moreinfo.similar;
+        let currentDistroTargetAudience = value[distroFamily].moreinfo.target;
+
+        if ( currentDistroFamily == "supported" )
+        {
+          let currentDistroBaseSupported = supported.currentlySupported.currentDistroFamily;
+          let currentDistroBaseEOL = supported.eol.currentDistroFamily;
+        }
+        
+        // I think i meant "rolling, ...etc for this let"
+        let currentDistroSoftwareType = value[distroFamily].moreinfo.software;
+
+        // Website
+        let currentDistroHomepage = value[distroFamily].website.homepage;
+        let currentDistroDownload = value[distroFamily].website.download;
+        let currentDistroForum = value[distroFamily].website.forum;
+
+        // Screenshot
+        let currentDistroScreenshotTN =
+          value[distroFamily].screenshots.thumbnails;
+        let currentDistroScreenshot = value[distroFamily].screenshots.src;
+
+        // Youtube Playlists
+        let currentDistroYTReviewPLaylist =
+          value[distroFamily].youtube.reviewPlaylist;
+        let currentDistroYTTipsPLaylist =
+          value[distroFamily].youtube.tipsPlaylist;
+
+        ////////////////////////////////////////////////////////////////////////////
+
+        if (localDistroName == currentDistroName) {
+          displayDistroOutput(
+            currentDistroFamily,
+            currentDistroName,
+            currentDistroIcon,
+            currentDistroTitle,
+            currentDistroHomepage,
+            currentDistroDownload,
+            currentDistroForum,
+            currentDistroScreenshot,
+            currentDistroScreenshotTN,
+            currentDistroYTReviewPLaylist,
+            currentDistroYTTipsPLaylist,
+            currentDistroFeaturesDesktops,
+            currentDistroSimilarDistros,
+            currentDistroTargetAudience,
+            currentDistroSoftwareType,
+            currentDistroBaseSupported,
+            currentDistroBaseEOL
+          );
+        }
+      }
+    }); // Ends .each loop
+  }); // ends getJSON loop
+}
