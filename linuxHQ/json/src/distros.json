@@ -800,22 +800,26 @@
   ],
   "supported": {
     "currentlySupported": {
-      "arch": "all",
+      "arch": "all-if updated",
       "debian": "",
       "fedora": "Fedora 33, Fedora 34, Rawhide",
       "opensuse": "Leap 15.2, Tumbleweed",
       "ubuntu": "18.04 LTS, 20.04 LTS, 20.10",
-    }
+    },
 
     "arch": {
-      "rollingMessage": "As with any rolling release the more out of date it is, since the prior updates, the more things on some setups MAY have the chance of breaking when an update IS done."
+      "eol": "As with any rolling release the more out of date it is, since the prior updates, the more things on some setups MAY have the chance of breaking when an update IS done."
     },
+    "fedora": {
+      "eol":""
+    },
+
     "opensuse": {
-      "leap152EOL": "December 31, 2021"
+      "eol": "openSUSE Leap 15.2: December 31, 2021"
     },
     "ubuntu": {
-      "1804LTSEOL": "April 2023",
-      "2004LTSEOL": "April 2025",
+
+      "eol": "Ubuntu 18.04 LTS End of Life: April 2023, Ubuntu 20.04 LTS End of Life: April 2025"
     }
   },
   "ubuntu": [
