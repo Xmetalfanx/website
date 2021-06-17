@@ -131,12 +131,24 @@ function getDistroData(data, $localDistroName) {
   // Get JSON Data
   $.getJSON(jsonURL, function (data) {
     $.each(data, function (key, value) {
+      console.log('key: ' + key);
+      let currentDistroFamily = key;
+
+      if ((key = 'supported')) {
+        let currentDistroBaseSupported =
+          supported.currentlySupported.currentDistroFamily;
+        let currentDistroBaseEOL = supported.eol.currentDistroFamily;
+      }
+
+      console.log(currentDistroBaseSupported);
+      console.log(currentDistroBaseEOL);
+
       for (let distroFamily = 0; distroFamily < value.length; distroFamily++) {
         //////////////////////////////////////////////////////////////////////////
         // DECLARE variables
 
-        let currentDistroFamily = key;
-        console.log("Current distro family: " + currentDistroFamily);
+        // test
+        console.log('Current distro family: ' + currentDistroFamily);
 
         // Name/Title
         let currentDistroName = value[distroFamily].distroName;
@@ -151,12 +163,6 @@ function getDistroData(data, $localDistroName) {
         let currentDistroSimilarDistros = value[distroFamily].moreinfo.similar;
         let currentDistroTargetAudience = value[distroFamily].moreinfo.target;
 
-        if ( currentDistroFamily == "supported" )
-        {
-          let currentDistroBaseSupported = supported.currentlySupported.currentDistroFamily;
-          let currentDistroBaseEOL = supported.eol.currentDistroFamily;
-        }
-        
         // I think i meant "rolling, ...etc for this let"
         let currentDistroSoftwareType = value[distroFamily].moreinfo.software;
 
