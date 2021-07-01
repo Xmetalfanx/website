@@ -3,17 +3,28 @@
   <head>
     <title>Xmetal&apos;s Homepage</title>
 
-    <?php include 'modules/headerInclude.tpl'; ?>
+    <?php
+
+    $headerInc = "modules/headerInclude.tpl";
+    $headerInc = filter_var($headerInc, FILTER_SANITIZE_STRING);
+
+    require $headerInc;
+
+    ?>
   </head>
   <body>
-    <div class="middle-container">
-      <header>Xmetal's Homepage </header>
+    <header>
+      <div class="frontpage-title h2">Xmetal's Homepage</div>
+    </header>
+
+
+    <div class="main-section">
       <div class="frontpage-section">
         <?php include 'modules/siteSection.php'; ?>
         <?php include 'modules/git.php'; ?>
       </div>
-      <?php include 'modules/footer.tpl'; ?>
     </div>
 
+    <?php include 'modules/footer.tpl'; ?>
   </body>
 </html>
