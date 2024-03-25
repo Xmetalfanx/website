@@ -4,7 +4,7 @@
   "description": "My Homepage",
   "main": "index.php",
   "devDependencies": {
-    "@babel/core": "^7.23.9",
+    "@babel/core": "^7.24.3",
     "@babel/eslint-parser": "^7.23.10",
     "@effective/prettier": "^0.2.1",
     "@fullhuman/postcss-purgecss": "^5.0.0",
